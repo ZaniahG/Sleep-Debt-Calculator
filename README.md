@@ -6,3 +6,5 @@ Features:
 User Input: Users can input the number of hours they slept each day for a week.
 Recommended Sleep Calculation: The calculator uses the recommended 8 hours of sleep per night as a baseline for calculating sleep debt.
 Sleep Debt Calculation: The  (defunct) application calculates the total sleep debt based on user input and the recommended sleep hours.
+
+Last worked on Dec 30, 2021; Feel free to study, cross-reference, or whatever of this code.
